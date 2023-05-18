@@ -1,0 +1,6 @@
+where python
+mkdir pyqt_ds6 //criar pasta
+DIR //buscar pasta
+cd pyqt_ds6
++ -m venv @venv
+pip freeze // tudo instalado
